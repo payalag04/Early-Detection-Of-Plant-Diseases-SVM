@@ -1,0 +1,1 @@
+# Early-Detection-Of-Plant-Diseases-SVM
